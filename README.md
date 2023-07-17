@@ -1,6 +1,16 @@
 # Hello, NDK
 This is a project that records learning [Android NDK](https://developer.android.com/ndk?hl=zh-cn) development.
 
+## Environment
+- Android Studio
+- Gradle
+- NDK
+- [CMake](http://tools.android.com/tech-docs/external-c-builds)
+## Order
+
+### Hello JNI
+uses JNI to call C code in Android.
+
 ## Refer to
 [ndk-samples](https://github.com/android/ndk-samples)
 
