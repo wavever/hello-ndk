@@ -1,5 +1,7 @@
 package me.wavever.hellojni
 
+import androidx.annotation.Keep
+
 class HelloJNI {
     companion object {
         init {
